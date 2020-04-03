@@ -11,4 +11,4 @@ cd docs && git submodule add https://github.com/TermuxArch/imgsTermuxArch imgs
 
 ```
 
-#OEF
+<!--OEF-->
